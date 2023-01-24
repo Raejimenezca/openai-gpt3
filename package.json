@@ -1,0 +1,15 @@
+{
+  "name": "gpt3prompt",
+  "version": "1.0.0",
+  "description": "gpt3 openai prompt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "raejimenezca@unal.edu.co",
+  "license": "ISC",
+  "dependencies": {
+    "linebyline": "^1.3.0",
+    "openai": "^2.0.5"
+  }
+}
